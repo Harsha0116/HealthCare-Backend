@@ -48,6 +48,7 @@ python manage.py migrate
 ### 6. Start Server
 
 ```bash
+pip install setuptools
 python manage.py runserver
 ```
 
