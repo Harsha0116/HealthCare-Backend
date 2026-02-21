@@ -20,7 +20,7 @@ A secure, production ready healthcare application backend built using Django, Dj
 ```bash
 cd healthcare_backend
 python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
